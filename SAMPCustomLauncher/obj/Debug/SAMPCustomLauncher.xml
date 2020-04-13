@@ -1,0 +1,178 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SAMPCustomLauncher
+</name>
+</assembly>
+<members>
+<member name="P:SAMPCustomLauncher.GIF.Frames(System.Int32)">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ Gets the frame at the specified index.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+ <value>
+ The frame index.
+ </value>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="P:SAMPCustomLauncher.GIF.ActiveFrame">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ Gets the active frame.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+ <value>
+ The active frame.
+ </value>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="P:SAMPCustomLauncher.GIF.ActiveFrameIndex">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ Gets the index in the frame count of the current active frame.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+ <value>
+ The index in the frame count of the current active frame.
+ </value>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="F:SAMPCustomLauncher.GIF.activeFrameIndexB">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ ( Backing Field )
+ The index in the frame count of the current active frame.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="P:SAMPCustomLauncher.GIF.EndOfFrames">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ Gets a value indicating whether the frame count is at EOF, 
+ this means there is no more frames to advance in the GIF image.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+ <value>
+		<see langword="True"/> if there is no more frames to advance in the GIF image; otherwise, <see langword="False"/>.
+ </value>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="F:SAMPCustomLauncher.GIF.eof">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ ( Backing Field )
+ A value indicating whether the frame count is at EOF, 
+ this means there is no more frames to advance in the GIF image.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="M:SAMPCustomLauncher.GIF.#ctor">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ Prevents a default instance of the <see cref="T:SAMPCustomLauncher.GIF"/> class from being created.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="M:SAMPCustomLauncher.GIF.#ctor(System.String)">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ Initializes a new instance of the <see cref="T:SAMPCustomLauncher.GIF"/> class.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+ <param name="filepath">
+ The filepath.
+ </param>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="M:SAMPCustomLauncher.GIF.#ctor(System.IO.FileInfo)">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ Initializes a new instance of the <see cref="T:SAMPCustomLauncher.GIF"/> class.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+ <param name="file">
+ The image file.
+ </param>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="M:SAMPCustomLauncher.GIF.#ctor(System.Drawing.Image)">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ Initializes a new instance of the <see cref="T:SAMPCustomLauncher.GIF"/> class.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+ <param name="img">
+ The image.
+ </param>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="M:SAMPCustomLauncher.GIF.NextFrame">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ Advances one position in the frame count and returns the next frame.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+ <returns>
+ The next frame.
+ </returns>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="M:SAMPCustomLauncher.GIF.GetFrames">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ Gets a <see cref="T:System.Collections.Generic.List`1"/> containing all the frames in the image.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+ <returns>
+ A <see cref="T:System.Collections.Generic.List`1"/> containing all the frames in the image.
+ </returns>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="M:SAMPCustomLauncher.GIF.GetFramesFromImage(System.Drawing.Image)">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ Gets a <see cref="T:System.Collections.Generic.List`1"/> containing all the frames in the source GIF image.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+ <param name="img">
+ The source <see cref="F:SAMPCustomLauncher.GIF.Image"/>.
+ </param>
+ ----------------------------------------------------------------------------------------------------
+ <returns>
+ The resulting percentage difference value between the two specified images.
+ </returns>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="T:SAMPCustomLauncher.GIF">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ Represents a GIF image.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="P:SAMPCustomLauncher.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SAMPCustomLauncher.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SAMPCustomLauncher.My.Resources.Resources.Locked">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SAMPCustomLauncher.My.Resources.Resources.open">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SAMPCustomLauncher.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

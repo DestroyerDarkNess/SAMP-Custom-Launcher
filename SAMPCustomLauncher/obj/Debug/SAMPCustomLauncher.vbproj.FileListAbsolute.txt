@@ -1,0 +1,17 @@
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\SAMPCustomLauncher\SAMPCustomLauncher\bin\Debug\SAMPCustomLauncher.exe.config
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\SAMPCustomLauncher\SAMPCustomLauncher\bin\Debug\SAMPCustomLauncher.exe
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\SAMPCustomLauncher\SAMPCustomLauncher\bin\Debug\SAMPCustomLauncher.pdb
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\SAMPCustomLauncher\SAMPCustomLauncher\bin\Debug\SAMPCustomLauncher.xml
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\SAMPCustomLauncher\SAMPCustomLauncher\obj\Debug\SAMPCustomLauncher.Form1.resources
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\SAMPCustomLauncher\SAMPCustomLauncher\obj\Debug\SAMPCustomLauncher.Resources.resources
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\SAMPCustomLauncher\SAMPCustomLauncher\obj\Debug\SAMPCustomLauncher.vbproj.GenerateResource.Cache
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\SAMPCustomLauncher\SAMPCustomLauncher\obj\Debug\SAMPCustomLauncher.exe
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\SAMPCustomLauncher\SAMPCustomLauncher\obj\Debug\SAMPCustomLauncher.xml
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\SAMPCustomLauncher\SAMPCustomLauncher\obj\Debug\SAMPCustomLauncher.pdb
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\SAMPCustomLauncher\SAMPCustomLauncher\obj\Debug\SAMPCustomLauncher.frmShadow.resources
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\SAMPCustomLauncher\SAMPCustomLauncher\obj\Debug\SAMPCustomLauncher.About.resources
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\SAMPCustomLauncher\SAMPCustomLauncher\obj\Debug\SAMPCustomLauncher.vbprojResolveAssemblyReference.cache
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\SAMPCustomLauncher\SAMPCustomLauncher\obj\Debug\SAMPCustomLauncher.ServerAddFrm.resources
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\SAMPCustomLauncher\SAMPCustomLauncher\obj\Debug\SAMPCustomLauncher.DomainInfoForm.resources
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\SAMPCustomLauncher\SAMPCustomLauncher\obj\Debug\SAMPCustomLauncher.ServerPropierties.resources
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\SAMPCustomLauncher\SAMPCustomLauncher\obj\Debug\SAMPCustomLauncher.IPChanger.resources

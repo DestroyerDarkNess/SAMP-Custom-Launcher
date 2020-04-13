@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ColorMain" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">28, 28, 28</Value>
+    </Setting>
+    <Setting Name="LineColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 103, 26</Value>
+    </Setting>
+    <Setting Name="SettingC" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">28, 28, 28</Value>
+    </Setting>
+    <Setting Name="ForeC" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
